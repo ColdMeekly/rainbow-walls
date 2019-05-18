@@ -2,7 +2,7 @@
 Counter Strike: Global Offensive external wallhack | Auto Updating
 
 ## Preview
-<img src="https://femto.pw/gikj.png">
+![](68747470733a2f2f66656d746f2e70772f67696b6a2e706e67.png)
 
 ## FAQ
 Q) How do I use this?
