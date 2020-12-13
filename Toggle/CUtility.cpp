@@ -78,7 +78,6 @@ bool CUtility::getModuleNamePointer(const char* moduleName, DWORD processID, MOD
 }
 
 
-
 VOID CUtility::runSetDebugPrivs()
 {
 	HANDLE hProcess = GetCurrentProcess();
